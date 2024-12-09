@@ -24,14 +24,4 @@ Este projeto é uma oportunidade prática para consolidar conhecimentos sobre Re
 - **Axios ou Fetch API**: Consumo de APIs para buscar dados.
 - **CSS/SCSS e Material-UI**: Estilização da interface do usuário.
 
----
 
-## Estrutura do Projeto
-```plaintext
-src/
-├── components/       # Componentes reutilizáveis da aplicação
-├── pages/            # Páginas principais do projeto (Home, Carrinho, etc.)
-├── services/         # Arquivos para integração com APIs
-├── context/          # Configuração do gerenciamento de estado global
-├── styles/           # Estilos globais e personalizados
-└── App.js            # Componente raiz da aplicação
