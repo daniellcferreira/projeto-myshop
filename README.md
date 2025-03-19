@@ -1,5 +1,13 @@
 # Projeto My-Shop
 
+![React](https://img.shields.io/badge/React-Frontend%20Framework-61DAFB?style=flat-square&logo=react)
+![React Router](https://img.shields.io/badge/React%20Router-Routing%20Library-CA4245?style=flat-square&logo=react-router)
+![Redux](https://img.shields.io/badge/Redux-State%20Management-764ABC?style=flat-square&logo=redux)
+![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-5A29E4?style=flat-square&logo=axios)
+![Material-UI](https://img.shields.io/badge/Material%20UI-UI%20Library-0081CB?style=flat-square&logo=mui)
+![CSS](https://img.shields.io/badge/CSS-Styling%20Language-1572B6?style=flat-square&logo=css3)
+
+
 ## Descrição
 O **My-Shop** é o projeto principal do curso **Front-End em React** da **Ada Tech**, desenvolvido para aplicar os conceitos aprendidos ao longo do curso. O objetivo é criar uma aplicação de e-commerce funcional, onde os usuários podem visualizar produtos, adicionar itens ao carrinho e simular um fluxo de compra.
 
